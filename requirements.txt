@@ -3,3 +3,4 @@ markitdown
 requests
 pdfminer.six
 pandas
+pypdf
