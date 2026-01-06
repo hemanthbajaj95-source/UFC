@@ -2,3 +2,4 @@ streamlit
 markitdown
 requests
 pdfminer.six
+pandas
